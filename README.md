@@ -30,7 +30,9 @@ Some features may use text-to-speech functionality to generate spoken responses.
 
 This project is not affiliated with, endorsed by, or officially connected to Groq or any other AI provider used by this application.
 
-This tool runs locally in the browser. Conversations are not stored or routed through any server controlled by the developer, except for requests sent directly to AI providers selected by the user.
+This tool runs locally in the browser.
+
+Conversations are not stored or routed through any server controlled by the developer, except for requests sent directly to AI providers selected by the user.
 
 Users are fully responsible for their prompts, outputs, and usage of this software.
 
