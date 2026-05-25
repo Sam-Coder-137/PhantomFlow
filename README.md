@@ -11,6 +11,7 @@ How to run PhantomFlow
 6. Type allow pasting into the console and press Enter.
 7. Paste the code from PhantomFlow.js into the console and press Enter.
 8. When prompted, paste your API key and press Enter.
+   
    You now have your own side AI chatbot running directly in your browser.
     
 If you experience any bugs, issues, questions, or concerns, feel free to contact: samcoder137@proton.me
