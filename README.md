@@ -23,7 +23,9 @@ How to run PhantomFlow
    Pages with aggressive Content Security Policies (CSP)  
    Sites using sandboxed iframes or strict script isolation  
    Certain browser extension pages and internal browser URLs  
-   Websites with heavy anti-tampering protections  
+   Websites with heavy anti-tampering protections
+
+   By the way, the AI is not very smart. If I get enough people saying I should upgrade it then I will.
     
     
 If you experience any bugs, issues, questions, or concerns, feel free to contact: samcoder137@proton.me
