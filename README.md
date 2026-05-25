@@ -19,7 +19,7 @@ How to run PhantomFlow
    Some sites that this may not work on include: AI platforms such as Chatgpt.com, Grok.com, gemini.google.com.   
    Highly secured banking or government websites  
    Github.com, Reddit.com  
-   Chrome:// sites  
+   Chrome://  browser url  
    Pages with aggressive Content Security Policies (CSP)  
    Sites using sandboxed iframes or strict script isolation  
    Certain browser extension pages and internal browser URLs  
