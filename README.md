@@ -13,6 +13,17 @@ How to run PhantomFlow
 8. When prompted, paste your API key and press Enter.
    
    You now have your own side AI chatbot running directly in your browser.
+
+   Please note that this may not work on every site.
+
+   Some sites that this may not work on include: AI platforms such as Chatgpt.com, Grok.com, gemini.google.com.
+   Highly secured banking or government websites
+   Github.com, Reddit.com
+   Pages with aggressive Content Security Policies (CSP)
+   Sites using sandboxed iframes or strict script isolation
+   Certain browser extension pages and internal browser URLs
+   Websites with heavy anti-tampering protections
+   
     
 If you experience any bugs, issues, questions, or concerns, feel free to contact: samcoder137@proton.me
 
